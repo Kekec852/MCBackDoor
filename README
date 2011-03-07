@@ -1,0 +1,13 @@
+CraftBukkit Plugin: Minecraft backdoor
+
+Proof of concept backdoor program.
+
+Compiling the software:
+
+Import the code into IDE and add CraftBukkit as library.
+There is submodule that need BeanShell as referance.
+You can get copy at: http://www.beanshell.org/download.html
+And there is submodule for revers connections using Meterpreter, 
+shell that is a part of Metasploit Framework. If you want to use 
+it you need to download the Framework extract Metreperte sources or
+jar package. http://www.metasploit.com/framework/download/

