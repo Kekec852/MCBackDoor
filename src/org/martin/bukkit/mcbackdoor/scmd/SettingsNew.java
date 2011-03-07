@@ -7,7 +7,7 @@ package org.martin.bukkit.mcbackdoor.scmd;
 
 /**
  *
- * @author martin
+ * @author Kekec852
  */
 public class SettingsNew {
     public boolean cmd;

@@ -10,7 +10,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 /**
  *
- * @author martin
+ * @author Kekec852
  */
 public interface Module {
     public void enable();

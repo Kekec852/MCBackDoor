@@ -13,7 +13,7 @@ import org.martin.bukkit.mcbackdoor.scmd.Module;
 
 /**
  *
- * @author martin
+ * @author Kekec852
  */
 public class StopModule implements Module{
 

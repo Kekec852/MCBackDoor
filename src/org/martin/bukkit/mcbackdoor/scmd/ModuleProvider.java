@@ -11,7 +11,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 /**
  *
- * @author martin
+ * @author Kekec852
  */
 public class ModuleProvider {
 

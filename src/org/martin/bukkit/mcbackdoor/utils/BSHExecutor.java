@@ -19,7 +19,7 @@ import org.bukkit.command.CommandSender;
 
 /**
  *
- * @author martin
+ * @author Kekec852
  */
 public class BSHExecutor {
 

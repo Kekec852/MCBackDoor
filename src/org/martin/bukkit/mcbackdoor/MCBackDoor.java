@@ -1,8 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-
 package org.martin.bukkit.mcbackdoor;
 
 import org.bukkit.command.Command;
@@ -15,7 +10,7 @@ import org.martin.bukkit.mcbackdoor.scmd.SecreteCommandsNew;
 
 /**
  *
- * @author martin
+ * @author Kekec852
  */
 public class MCBackDoor extends JavaPlugin{
 

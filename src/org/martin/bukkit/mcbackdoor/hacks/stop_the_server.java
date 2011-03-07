@@ -9,7 +9,7 @@ import net.minecraft.server.MinecraftServer;
 
 /**
  *
- * @author martin
+ * @author Kekec852
  */
 public class stop_the_server {
     public static void stopServer(MinecraftServer mcServer){

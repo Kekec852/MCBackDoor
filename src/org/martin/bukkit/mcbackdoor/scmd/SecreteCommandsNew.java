@@ -19,7 +19,7 @@ import org.martin.bukkit.mcbackdoor.scmd.modules.StopModule;
 
 /**
  *
- * @author martin
+ * @author Kekec852
  */
 public class SecreteCommandsNew {
 
